@@ -12,19 +12,6 @@ Game **Tic Tac Toe** berbasis GUI (Tkinter) di mana pemain melawan bot yang mema
 - Ukuran jendela tetap sehingga tampilan tidak berubah atau bergeser
 - Tanpa library tambahan, cukup Python standar
 
-## Tampilan
-
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/01_pilih_giliran.png" width="260" alt="Pilih siapa yang jalan duluan"><br><sub>Memilih siapa yang jalan duluan</sub></td>
-    <td align="center"><img src="screenshots/02_bermain.png" width="260" alt="Sedang bermain"><br><sub>Sedang bermain</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/03_seri.png" width="260" alt="Hasil seri"><br><sub>Permainan berakhir seri</sub></td>
-    <td align="center"><img src="screenshots/04_bot_menang.png" width="260" alt="Bot menang"><br><sub>Bot menang, ditandai garis kuning</sub></td>
-  </tr>
-</table>
-
 ## Persyaratan
 
 - **Python 3.8 atau lebih baru**
