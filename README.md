@@ -125,6 +125,7 @@ Beberapa ide yang bisa ditambahkan:
 
 | Nama | NIM |
 |---|---|
-| _(isi)_ | _(isi)_ |
-| _(isi)_ | _(isi)_ |
-| _(isi)_ | _(isi)_ |
+| Kadek Devina Martini  | 2405551149 |
+|Enda Sri Ulina Br Ginting  |2405551033 |
+| Dhani Satriawan  |2405551129 |
+|I Made Kerta Praditya  | 2405551163 |
