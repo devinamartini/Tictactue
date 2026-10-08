@@ -2,8 +2,6 @@
 
 Game **Tic Tac Toe** berbasis GUI (Tkinter) di mana pemain melawan bot yang memakai algoritma **Minimax dengan Alpha-Beta Pruning**. Bot selalu bermain optimal, sehingga **tidak mungkin kalah**: hasil terbaik yang bisa diraih pemain adalah seri.
 
-> Tugas Kelompok 4 (isi nama mata kuliah/dosen jika perlu)
-
 ## Fitur
 
 - Melawan bot dengan kecerdasan Minimax + Alpha-Beta Pruning
